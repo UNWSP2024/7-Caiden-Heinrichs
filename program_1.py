@@ -1,6 +1,6 @@
 #Week 7, Program 1 - Rainfall
 #Caiden Heinrichs
-#03/07/26
+#03/06/26
 
 #Returns all indexes of a list where a specified value is found
 def searchList(list, value):
